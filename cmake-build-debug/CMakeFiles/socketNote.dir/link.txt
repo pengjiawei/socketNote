@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/socketNote.dir/main.cpp.o  -o socketNote 
